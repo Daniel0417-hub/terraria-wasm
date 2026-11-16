@@ -1,0 +1,7 @@
+Upload these paths into your fork of MercuryWorkshop/terraria-wasm:
+- .github/workflows/terrarium-build.yml
+- REMOTE_BUILD_GUIDE.md
+
+Do not upload Terraria.exe, DLLs, Content/, fonts, or other copyrighted game assets
+to the public fork. Keep the game installation ZIP in a separate private GitHub repo
+release asset, as described in REMOTE_BUILD_GUIDE.md.
